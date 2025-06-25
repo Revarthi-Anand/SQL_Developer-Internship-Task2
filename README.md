@@ -44,7 +44,7 @@ Defined a `Students` table with fields like:
 
 ## 📤 Submission
 
-**GitHub Repo Link**: _[Your GitHub Link Here]_  
+**GitHub Repo Link**: https://github.com/Revarthi-Anand/SQL_Developer-Internship-Task2.git 
 **Submitted via**: [Google Form](https://forms.gle/8Gm83s53KbyXs3Ne9)
 
 ---
